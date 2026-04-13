@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Amit Manmode 👋
 
-<!--
-**amitmanmode/amitmanmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student @ GH Raisoni Skill Tech University, Nagpur  
+💻 Learning Python | Data Analysis | Machine Learning  
+📍 Nagpur, Maharashtra  
+📫 amitmanmode9@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Libraries:** Matplotlib, Pandas
+- **Tools:** Excel, Git, GitHub
+
+---
+
+## 🚀 Projects
+
+### 📊 Student Marks Data Visualization
+> Visualized student marks data using Python & Matplotlib  
+> Charts: Line Graph, Bar Graph, Scatter Plot, Histogram, Pie Chart  
+🔗 [View Project](https://github.com/amitmanmode/matpotlib-data-visualization)
+
+---
+
+## 🌱 Currently Learning
+- Data Analysis with Pandas
+- Machine Learning basics
+- SQL for Data Science
+
+---
+
+## 📫 Connect With Me
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
+
+](https://linkedin.com/in/amit-manmode)
