@@ -2,7 +2,7 @@
 
 🎓 **BCA Student @ GH Raisoni Skill Tech University, Nagpur**  
 ☁️ **Aspiring Cloud Engineer | Exploring Machine Learning & MLOps**  
-💻 **Python | SQL | AWS Fundamentals | Data Analysis**  
+💻 **Python | SQL | AWS Fundamentals | Data Science**  
 📍 Nagpur, Maharashtra, India  
 📫 **[amitmanmode9@gmail.com](mailto:amitmanmode9@gmail.com)**
 
