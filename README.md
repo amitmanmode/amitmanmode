@@ -1,79 +1,92 @@
 # Hi, I'm Amit Manmode 👋
 
-🎓 **BCA Student @ GH Raisoni Skill Tech University, Nagpur**
-💻 **Python | Data Analysis | Data science | Machine Learning**
-📍 Nagpur, Maharashtra, India
+🎓 **BCA Student @ GH Raisoni Skill Tech University, Nagpur**  
+☁️ **Aspiring Cloud Engineer | Exploring Machine Learning & MLOps**  
+💻 **Python | SQL | AWS Fundamentals | Data Analysis**  
+📍 Nagpur, Maharashtra, India  
 📫 **[amitmanmode9@gmail.com](mailto:amitmanmode9@gmail.com)**
 
-I'm a BCA student passionate about **Python, Data Analysis, SQL, and Machine Learning**.
-I enjoy learning through hands-on projects, practicing new concepts, and building my technical skills step by step.
+I'm a BCA student interested in **Cloud Computing, Python, Machine Learning, and MLOps**. I enjoy learning by building practical projects, experimenting with code, and strengthening my technical foundations step by step.
+
+My current focus is developing strong Python and cloud fundamentals, building projects, and preparing for internship and entry-level opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
+### 💻 Programming
+- Python
+- SQL
+- C++ — learning DSA
 
-* Python
-* SQL
-
-### 📊 Data & Visualization
-
-* Pandas
-* Matplotlib
-* Excel
+### 📊 Data Analysis & Visualization
+- NumPy
+- Pandas
+- Matplotlib
+- Excel Fundamentals
 
 ### 🤖 Machine Learning
+- Machine Learning Fundamentals
+- Linear Regression
+- Model Predictions & Evaluation
+- Hands-on ML Practice
 
-* Machine Learning Fundamentals
-* ML Practice & Experiments
+### ☁️ Cloud & Systems
+- AWS Cloud Foundations
+- Amazon EC2 Fundamentals
+- Linux Fundamentals
+- Command Line Basics
 
-### 🔧 Tools
-
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
+### 🔧 Developer Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 Linear Regression — ML Learning Project
+
+A hands-on Machine Learning project exploring Linear Regression with Python and scikit-learn.
+
+**What I practiced:**
+- Preparing features and target values
+- Training a Linear Regression model
+- Making predictions
+- Visualizing actual data and the regression line
+- Evaluating model performance using MSE and R²
+
+🔗 [View Repository](https://github.com/amitmanmode/linear-regression-learning)
+
 ### 🛒 Shop Inventory SQL
 
-SQL-based project focused on working with shop inventory data and practicing database queries.
+A SQL project focused on shop inventory data and practicing database queries.
 
 🔗 [View Repository](https://github.com/amitmanmode/Shop-inventory-sql)
 
----
-
 ### 📊 Matplotlib Data Visualization
 
-Python project focused on visualizing student marks using different Matplotlib charts.
+A Python project exploring student marks through different charts and visualizations.
 
-**Visualizations:**
-
-* 📈 Line Graph
-* 📊 Bar Chart
-* 🔵 Scatter Plot
-* 📉 Histogram
-* 🥧 Pie Chart
+**Visualizations include:**
+- Line Graph
+- Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
 
 🔗 [View Repository](https://github.com/amitmanmode/matpotlib-data-visualization)
 
----
+### 🍽️ Zomato Exploratory Data Analysis
 
-### 🍽️ Zomato EDA
-
-Exploratory Data Analysis project using Python to explore and understand Zomato-related data.
+A data analysis project exploring Zomato-related data using Python.
 
 🔗 [View Repository](https://github.com/amitmanmode/zomato-eda)
 
----
+### 🐍 ML Practice
 
-### 🤖 ML Practice
-
-A collection of Machine Learning practice work, experiments, and learning exercises.
+A collection of Machine Learning practice exercises, experiments, and learning work.
 
 🔗 [View Repository](https://github.com/amitmanmode/ml-practice)
 
@@ -81,66 +94,61 @@ A collection of Machine Learning practice work, experiments, and learning exerci
 
 ## 🌱 Currently Learning
 
-* 🐍 Advanced Python
-* 📊 Data Analysis with Pandas
-* 🗄️ SQL for Data Science
-* 📈 Exploratory Data Analysis (EDA)
-* 🤖 Machine Learning
-* 📚 Data Science Fundamentals
+- Python: APIs, OOP, and clean code
+- SQL and data analysis
+- AWS Cloud and EC2
+- Linux and command-line fundamentals
+- Machine Learning algorithms
+- Git, GitHub, and project development
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goals
 
-* Build strong foundations in **Data Science & Machine Learning**
-* Create real-world Python and Data Analysis projects
-* Improve problem-solving and analytical skills
-* Build a strong GitHub portfolio
-* Gain practical experience through internships and projects
+- Build practical skills for an entry-level Cloud Engineer role
+- Develop and document cloud and Python projects
+- Gain experience through internships and real-world work
+- Progress toward **MLOps and ML on Cloud**
+- Build a strong technical portfolio through consistent practice
 
 ---
 
-## 📈 My Learning Journey
+## 📈 My Learning Roadmap
 
 ```text
-Python
-  ↓
-NumPy
-  ↓
-Pandas
-  ↓
-Data Visualization
-  ↓
-SQL
-  ↓
-EDA
-  ↓
-Machine Learning
-  ↓
-Data Science
+Python + SQL + Git
+        ↓
+Linux + AWS Fundamentals
+        ↓
+Cloud Projects & Deployment
+        ↓
+Entry-Level Cloud Role
+        ↓
+Machine Learning + Cloud
+        ↓
+MLOps Engineering
 ```
 
 ---
 
 ## 📂 All Repositories
 
-| Repository                                                                                  | Focus                  |
-| ------------------------------------------------------------------------------------------- | ---------------------- |
-| [Shop-inventory-sql](https://github.com/amitmanmode/Shop-inventory-sql)                     | SQL                    |
+| Repository | Focus |
+|---|---|
+| [linear-regression-learning](https://github.com/amitmanmode/linear-regression-learning) | Machine Learning |
+| [Shop-inventory-sql](https://github.com/amitmanmode/Shop-inventory-sql) | SQL |
 | [matpotlib-data-visualization](https://github.com/amitmanmode/matpotlib-data-visualization) | Python & Visualization |
-| [zomato-eda](https://github.com/amitmanmode/zomato-eda)                                     | EDA & Data Analysis    |
-| [ml-practice](https://github.com/amitmanmode/ml-practice)                                   | Machine Learning       |
-| [amitmanmode](https://github.com/amitmanmode/amitmanmode)                                   | GitHub Profile         |
+| [zomato-eda](https://github.com/amitmanmode/zomato-eda) | EDA & Data Analysis |
+| [ml-practice](https://github.com/amitmanmode/ml-practice) | Machine Learning |
+| [amitmanmode](https://github.com/amitmanmode/amitmanmode) | GitHub Profile |
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [amitmanmode9@gmail.com](mailto:amitmanmode9@gmail.com)
-
-💼 **LinkedIn:** [Amit Manmode](https://www.linkedin.com/in/amit-manmode)
-
-🐙 **GitHub:** [amitmanmode](https://github.com/amitmanmode)
+- 📧 **Email:** [amitmanmode9@gmail.com](mailto:amitmanmode9@gmail.com)
+- 💼 **LinkedIn:** [Amit Manmode](https://www.linkedin.com/in/amit-manmode)
+- 🐙 **GitHub:** [amitmanmode](https://github.com/amitmanmode)
 
 ---
 
